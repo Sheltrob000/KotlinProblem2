@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e38b398f-d75e-4cc4-bf01-e09759a9c387" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinProblem2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main4.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main5.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2k1Dr3GMJE9kCyyfw6jdLcQvlil" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,6 +39,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.Main2Kt.executor": "Run",
+    "Kotlin.Main3Kt.executor": "Run",
+    "Kotlin.Main4Kt.executor": "Run",
+    "Kotlin.Main5Kt.executor": "Run",
+    "Kotlin.Main6Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -75,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722442385544</updated>
       <workItem from="1722442386883" duration="551000" />
+      <workItem from="1722612101996" duration="2066000" />
     </task>
     <servers />
   </component>
